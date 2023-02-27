@@ -1,7 +1,7 @@
 """
 Leer 2 números; si son iguales que los multiplique, si el primero es mayor que el segundo que los reste y si no que los sume.
 """
-
+print("Bienvenido.")
 numero1 = input("Ingresá un número: ")
 numero2 = input("Ingresá otro número: ")
 
